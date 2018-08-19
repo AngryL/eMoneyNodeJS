@@ -1,0 +1,102 @@
+[
+     {
+          "ID": "1",
+          "ImageURL": "/img/services/groups/01.png",
+          "Name": "Utility Payments"
+     },
+     {
+          "ID": "2",
+          "ImageURL": "/img/services/groups/02.png",
+          "Name": "Internet & Communications"
+     },
+     {
+          "ID": "3",
+          "ImageURL": "/img/services/groups/03.png",
+          "Name": "Mobile Operators"
+     },
+     {
+          "ID": "4",
+          "ImageURL": "/img/services/groups/04.png",
+          "Name": "State Fees & Taxes"
+     },
+     {
+          "ID": "5",
+          "ImageURL": "/img/services/groups/05.png",
+          "Name": "Internet Services & Products"
+     },
+     {
+          "ID": "6",
+          "ImageURL": "/img/services/groups/06.png",
+          "Name": "Wallets"
+     },
+     {
+          "ID": "7",
+          "ImageURL": "/img/services/groups/07.png",
+          "Name": "Gambling & Sports Betting"
+     },
+     {
+          "ID": "8",
+          "ImageURL": "/img/services/groups/08.png",
+          "Name": "Financial Services"
+     },
+     {
+          "ID": "9",
+          "ImageURL": "/img/services/groups/09.png",
+          "Name": "Digital Content"
+     },
+     {
+          "ID": "10",
+          "ImageURL": "/img/services/groups/10.png",
+          "Name": "Transport & Logistics"
+     },
+     {
+          "ID": "11",
+          "ImageURL": "/img/services/groups/11.png",
+          "Name": "Hosting & Domain Registration"
+     },
+     {
+          "ID": "12",
+          "ImageURL": "/img/services/groups/12.png",
+          "Name": "Online Games & Fun"
+     },
+     {
+          "ID": "13",
+          "ImageURL": "/img/services/groups/13.png",
+          "Name": "Books & Learning"
+     },
+     {
+          "ID": "14",
+          "ImageURL": "/img/services/groups/14.png",
+          "Name": "Health & Beauty"
+     },
+     {
+          "ID": "15",
+          "ImageURL": "/img/services/groups/15.png",
+          "Name": "Auto"
+     },
+     {
+          "ID": "16",
+          "ImageURL": "/img/services/groups/16.png",
+          "Name": "Charity"
+     },
+     {
+          "ID": "17",
+          "ImageURL": "/img/services/groups/17.png",
+          "Name": "eGift Cards & Prepaid Services"
+     },
+     {
+          "ID": "18",
+          "ImageURL": "/img/services/groups/18.png",
+          "Name": "Bank Transfers"
+     },
+     {
+          "ID": "19",
+          "ImageURL": "/img/services/groups/19.png",
+          "Name": "Consumer Electronics"
+     },
+     {
+          "ID": "20",
+          "ImageURL": "/img/services/groups/20.png",
+          "Name": "Other"
+     }
+]
