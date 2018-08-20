@@ -17,7 +17,7 @@ class eMoneyAPI {
     this.client = this.createClient(this.wdsl);
     this.getServiceGroups = this.getServiceGroups.bind(this);
     this.getTransactionInfo = this.getTransactionInfo.bind(this);
-    this.testService(this.getBalance());
+//     this.testService(this.getBalance());
     // this.testService(this.getServiceGroups());
 
     // this.testTelasiPay()
@@ -28,7 +28,7 @@ class eMoneyAPI {
       { Key: "service", Value: 1001 },
       { Key: "currency", Value: "GEL" },
       { Key: "transaction", Value: "DSGDJFYWIUDYSHDUYWD8990sadfa" },
-      { Key: "customercode", Value: 1441452 },
+      { Key: "customercode", Value: 1441455 },
       { Key: "amount", Value: "5.00" }
     ];
     // this.testService(this.getInfo(1001, parameters));
@@ -119,20 +119,13 @@ class eMoneyAPI {
     return serviceProperties;
   }
 
-  getTelasiParameters() {
-    return [
-      { Key: "service", Value: 1001 },
-      { Key: "serviceid", Value: 1001 },
-      { Key: "customercode", Value: 1441452 }
-    ];
-  }
 
   // Gets service Id and Key/Value pairs of parameters array
   /* 
   For example: [
     { Key: "service", Value: 1001}
     { Key: "serviceid", Value: 1001 }
-    { Key: "customercode", Value: 1441452 }
+    { Key: "customercode", Value: 1554789 }
   ]
   */
   getInfo(serviceId, parameters) {

@@ -166,7 +166,7 @@ class Utils {
 
 
   /*
-Takes ReadStream, callback function, processData Function
+Takes ReadStream, WriteStream, processData Function
 1) Reads data using the ReadStream
 2) Processes data using the processData function
 3) Writes the given data to the writeStream.
